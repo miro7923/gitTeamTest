@@ -11,6 +11,5 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
-<h2>푸시(은현)</h2>
 </body>
 </html>
